@@ -1,4 +1,4 @@
-#notesApp
+Notes App
 
 Notes app in sections 3-5 of the assigned Udemy course. Provided comments around the functionality created.
 
